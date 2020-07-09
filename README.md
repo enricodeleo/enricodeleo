@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 🍱 A multi-flavoured dev (PHP, JS, NodeJS, TypeScript...) mainly making stuffs for web and mobile ✍️ Seasoned UI/UX designer 🛠️ Maker 🚀 Entrepreneur
+
+- 🖊️ blogging on blog.enricodeleo.com
