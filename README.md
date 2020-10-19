@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🍱 A multi-flavoured dev (PHP, JS, NodeJS, TypeScript...) mainly making stuffs for web and mobile ✍️ Seasoned UI/UX designer 🛠️ Maker 🚀 Entrepreneur
+🍱 A multi-flavoured dev (PHP, JS, NodeJS, TypeScript...) basically making stuffs for web and mobile ✍️ Seasoned UI/UX designer 🛠️ Maker 🚀 Entrepreneur
 
-- 🖊️ blogging on blog.enricodeleo.com
+- 🖊️ blogging on https://blog.enricodeleo.com
+- 📫 my newsletter about frontend tricks, tools, facts (italian) http://bit.ly/frontend-newsletter 
+- 📷 followe me https://www.instagram.com/enricodeleo/
+- 👍 like me on https://www.facebook.com/therealenricodeleo
+- 📺 https://www.youtube.com/c/EnricoDeleoOfficial
+- 🐧 penguins fan
