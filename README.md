@@ -23,3 +23,5 @@ Enrico Deleo is a 🍱  multi-flavoured dev (PHP, JS, NodeJS, TypeScript...) bas
 - 👍 like me on https://www.facebook.com/therealenricodeleo
 - 📺 https://www.youtube.com/c/EnricoDeleoOfficial
 - 🐧 penguins fan
+
+![](banner.jpg)
