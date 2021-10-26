@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Enrico Deleo is a 🍱  multi-flavoured dev (PHP, JS, NodeJS, TypeScript...) basically making stuffs for web and mobile ✍️ Seasoned UI/UX designer 🛠️ Maker 🚀 Entrepreneur
+I'm **Enrico Deleo**, a 🍱 multi-flavoured DevOp (PHP, JS, NodeJS, TypeScript...) basically making stuff for web and mobile, more often within in SaaS projects.  
+
+Among other things I use to be
+✍️ Seasoned UI/UX designer 
+🛠️ Maker 
+🚀 Entrepreneur
 
 - 🖊️ blogging on https://blog.enricodeleo.com
 - 📫 my newsletter about frontend tricks, tools, facts (italian) http://bit.ly/frontend-newsletter 
