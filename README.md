@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 
 <!--
 **enricodeleo/enricodeleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,12 +22,13 @@ Among other things I use to be a
 🛠️ Maker 
 🚀 Entrepreneur
 
--------
+#
 - 🖊️ blogging on https://blog.enricodeleo.com
 - 📫 my newsletter about frontend tricks, tools, facts (italian) http://bit.ly/frontend-newsletter 
 - 📷 followe me https://www.instagram.com/enricodeleo/
 - 👍 like me on https://www.facebook.com/therealenricodeleo
 - 📺 https://www.youtube.com/c/EnricoDeleoOfficial
 - 🐧 penguins fan
+---
 
-![](banner.jpg)
+![enricodeleo's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricodeleo&count_private=true&show_icons=true&theme=vue)
