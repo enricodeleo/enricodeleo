@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 I'm **Enrico Deleo**, a 🍱 multi-flavoured DevOp (PHP, JS, NodeJS, TypeScript...) basically making stuff for web and mobile, more often within in SaaS projects.  
 
-Among other things I use to be
+Among other things I use to be a 
 ✍️ Seasoned UI/UX designer 
 🛠️ Maker 
 🚀 Entrepreneur
 
+-------
 - 🖊️ blogging on https://blog.enricodeleo.com
 - 📫 my newsletter about frontend tricks, tools, facts (italian) http://bit.ly/frontend-newsletter 
 - 📷 followe me https://www.instagram.com/enricodeleo/
